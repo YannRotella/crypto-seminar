@@ -2,13 +2,15 @@
 permalink: pretty
 
 #Repository
-repository: yannrotella/aws
+repository: yannrotella/crypto-seminar
 
 # About
-title: "Applications Web et Sécurité"
-tagline: M1 Informatique
+title: "The Versailles Seminar on Cryptography"
+tagline: Versailles Crypto-Team
 authors:
   - name: Yann Rotella
+    url: 'https://rotella.fr/'
+  - name: Christina Boura
     url: 'https://christinaboura.wordpress.com/'
 
 created: 2021
