@@ -2,7 +2,7 @@
 title: Home
 ---
 
-## Info pratiques
+## Info pratiques3
 
 Cours & TD le mercredi de 13h à 15h50, sur Zoom (lien dans l'espace Moodle)
 
