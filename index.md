@@ -1,131 +1,65 @@
 ---
 title: Home
 ---
+Cours de Master sur la programmation Web et introduction aux notions de sécurité du Web. Dans ce cours, les étudiant.e.s sont en groupe et doivent réaliser un projet conséquent sur une période de 5 semaines. Les premiers TD servent à maîtriser les bases. Il est demandé une excellente autonomie de la part des étudiant.e.s, d'aller chercher des techniques et outils largement au delà de l'information contenue dans les CM. Nous apprenons, au travers du projet guidé, à travailler réellement en groupe, à trouver des solutions afin de pouvoir être performant seul ou en groupe à l'issue du cours. 
 
-## Info pratiques3
+## Informations pratiques
 
-Cours & TD le mercredi de 13h à 15h50, sur Zoom (lien dans l'espace Moodle)
+Cours le jeudi de 9h à 11h sur Zoom (lien dans l'espace Moodle et ici). Certaines séances seront peut-être en présentiel si la situation sanitaire le permet.
 
-**Chargés de cours et TD :** [Christina Boura](https://christinaboura.wordpress.com/) et [Yann Rotella](https://rotella.fr/)
+TD le jeudi de 13h à 16h50 en salles 505 à 509, Bâtiment Buffon, se référer à [CELCAT](https://edt.uvsq.fr/cal?vt=month&dt=2021-04-01&et=module&eid=1218215677:1793012772:13:3684034:32&fid0=MIN17217) si changement.
 
-**Serveur pour les TPs:** [https://jupyter.ens.uvsq.fr/](https://jupyter.ens.uvsq.fr/)
+**Responsable du cours :** [Yann Rotella](https://rotella.fr/)
+
+**Chargé de TD :** [Léo Perrin](https://who.paris.inria.fr/Leo.Perrin/)
+
+**Intervenants extérieurs :** [Thomas Rousseau](https://www.linkedin.com/in/thomas-rousseau-0261735b/) et [Maxime Arbisa](https://www.linkedin.com/in/maxime-arbisa-52136265/)
 
 
 
 ## Calendrier
 
-3 février
+#### 1 avril: Cours et Web Statique
+  - Explication de ce qui est attendu
+  - Critères de notation
+  - URLs
+  - HTML (balisage en général)
 
-**Introduction à l'analyse des algorithmes**
-   - Tri par insertion
-   - Analyse de complexité
+#### 8 avril: Suite Web Statique
+  - CSS
+  - BoxModel
+  - JavaScript
+  - DOM
 
-**TD :** [(Ré)-introduction à Python](tds/intro-python)
+#### 15 avril: Web actuel
+  - Protocole HTTP
+  - Frameworks (Node.JS)
+  - Templates
 
+#### 22 avril: Cours de Maxime Arbisa
+  - Web avancé
+  - frameworks actuels 
+  - Comparaisons techno
+  - Sockets ?
+  - Outils
 
+#### 6 mai: Sécurité Web: application de la crypto
+  - HTTPS
+  - Anonymat (Tor)
+  - Certificats
+  - Fonctions de hachages cryptographiques
 
-#### 10 février
-
-**Algorithmes de tri**
-   - Complexité asymptotique, notation $$\mathcal{\Theta}$$ et $$\mathcal{O}$$
-   - Principe *diviser pour régner*
-   - Exemple : *tri fusion*
-   
-**Structures de données**
-  - Listes chaînées
-  - Arbres
-  - Tables de hachage
-
-
-#### 17 février (16h - 18h50)
-
-**TD :** [Algorithmes de tri](tds/tris)
-    
-**TD :** [Structures de données](tds/structures-donnees)
-
-
-
-#### 3 mars
-
-**Arbres**
-   - Arbres binaires de recherche
-
-**TD :** [Arbres](tds/classes-arbres)
-
-
-
-#### 10 mars
-
-**Programmation dynamique**
-   - Exponentiation rapide
-   - Puissance d'une matrice, square and multiply
-    
-    
-**TD :** [Programmation dynamique](tds/prog-dynamique)
-
-
-#### 17 mars
+#### 13 mai: Thomas Rousseau (La crypto ne fait pas tout)
 
 **1er contrôle continu**
 
 
-#### 24 mars
-
-**Systèmes linéaires**
-   - Résolution de systèmes linéaires de type AX = B,
-   - Pivot de Gauss
-    
-**TD :** [Algèbre linéaire](tds/linalg)
-
-
-#### 31 mars
-
-**Programmation linéaire**
-    - Algorithme du simplexe
-    
-**TD :** [Programmation linéaire]()
-
-
-#### 7 avril
-
-**Graphes**
-   - Notions de base, représentation, matrice d'adjacence
-   - Parcours en largeur et en profondeur
-   - Tri topologique
-   
-**TD :** [Graphes](tds/graphes1)
-
-
-#### 14 avril
-
-**Graphes (suite)**
-   - Arbres couvrants minimaux, algorithme de Prim
-   - Chemins les plus courts, algorithme de Dijkstra
-    
-**TD :** [Graphes (bis)](tds/graphes2)
-
-
-#### 21 avril
-
-**2nd contrôle continu**
-
-
-
-#### 5 mai
-
-**Problèmes NP complets, machines de Turing**
-
-
+#### 20 mai: Journée de soutenances 
+Présentiel ou distanciel en fonction de la situation sanitaire
 
 
 
 ## Modalités d'évaluation :
-
-17 mars - 13h : 1er contrôle continu (sur feuille + machine) : 
-
-21 avril - 13h : 2nd contrôle continu (sur feuille + machine) :
-
-**Note finale :** 100% CC, où CC = (CC1 + CC2)/2
 
 
 
@@ -134,7 +68,10 @@ Cours & TD le mercredi de 13h à 15h50, sur Zoom (lien dans l'espace Moodle)
 ## Annales
 
 
-## Bibliographie
+## Bibliographie et liens utiles
+Cette liste sera mise à jour au fur et à mesure du cours.
+
+[Roadmap](https://roadmap.sh/)
 
 T. H. Cormen, C. E. Leiserson, R. L. Rivest, C. Stein.
 *Introduction à l'Algorithmique*.
